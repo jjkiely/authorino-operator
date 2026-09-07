@@ -1,6 +1,6 @@
 module github.com/kuadrant/authorino-operator
 
-go 1.22
+go 1.27
 
 require (
 	github.com/go-logr/logr v1.2.4
