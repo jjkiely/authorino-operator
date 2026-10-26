@@ -1,6 +1,6 @@
 module github.com/kuadrant/authorino-operator
 
-go 1.22
+go 1.26
 
 require (
 	github.com/go-logr/logr v1.2.4
@@ -12,7 +12,7 @@ require (
 	k8s.io/apimachinery v0.28.3
 	k8s.io/client-go v0.28.3
 	k8s.io/klog/v2 v2.100.1
-	k8s.io/utils v0.0.0-20230406110748-d93618cff8a2
+	k8s.io/utils v0.0.0-20261023123148-ca04ba58ecab
 	sigs.k8s.io/controller-runtime v0.16.3
 )
 
